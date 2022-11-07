@@ -1,5 +1,5 @@
 #Patrick McGrath
-#Weather Application using APIs
+#Weather Application v1.0
 
 from typing import List
 from guizero import *
